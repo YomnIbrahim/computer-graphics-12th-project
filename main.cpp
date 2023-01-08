@@ -130,6 +130,9 @@ glColor3f (0.04, 0.73, 0.71);
 
 
 }
+
+
+//3 pyramids
 void pyramid()
 {
     //pyramid 1
