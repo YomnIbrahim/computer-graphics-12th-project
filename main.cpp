@@ -587,7 +587,7 @@ glColor3f(0.88, 0.55, 0.24);
 
 
 
-//debris
+//debris blocks
 
 glLoadIdentity();
    glTranslatef(4.0f, -2.4f, -8.0f);
