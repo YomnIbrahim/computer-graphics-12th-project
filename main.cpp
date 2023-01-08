@@ -262,7 +262,7 @@ void pyramid()
 
 }
 
-//stars
+//stars function
 void stars()
 {
    
