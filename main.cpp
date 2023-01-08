@@ -261,9 +261,11 @@ void pyramid()
 
 
 }
+
+//stars
 void stars()
 {
-    //stars
+   
 glColor3f (1.0, 1.0, 1.0);
 glPushMatrix ();
 glTranslatef    (-3,0,-10);
