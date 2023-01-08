@@ -544,7 +544,7 @@ pyramid();
 stars();
 
 
-//sand dunes
+//dunes
 glPushMatrix();
 glColor3f(0.88, 0.55, 0.24);
  glTranslatef(13,-8,-16);
