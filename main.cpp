@@ -11,12 +11,18 @@
 #include <windows.h>
 #include <math.h>
 
+
+//input
+
 float zRotated = 0.0,qx,qz;
 //----------------------keyboard--------------------------
 void keyboard(unsigned char Key,int x,int y)
     {
    if(Key=='s'){qz-=0.1;} if(Key=='w'){qz+=0.1;}
    if(Key=='a'){qx-=0.1;} if(Key=='d'){qx+=0.1;}
+    
+    
+
 
     glutPostRedisplay();
     }
