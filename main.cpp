@@ -47,7 +47,7 @@ void reshapeFunc (int w, int h)
 
 
 
-
+// planets function
 void planet()
 {
     //moon
